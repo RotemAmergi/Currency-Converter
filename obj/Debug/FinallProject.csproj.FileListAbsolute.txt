@@ -1,0 +1,12 @@
+D:\visual works\finallproject\finallproject\bin\Debug\finallproject.exe.config
+D:\visual works\finallproject\finallproject\bin\Debug\finallproject.exe
+D:\visual works\finallproject\finallproject\bin\Debug\finallproject.pdb
+D:\visual works\finallproject\finallproject\obj\Debug\finallproject.exe
+D:\visual works\finallproject\finallproject\obj\Debug\finallproject.pdb
+D:\visual works\finallproject\finallproject\obj\Debug\FinallProject.csprojResolveAssemblyReference.cache
+C:\Users\rotem\Desktop\student\3 Year\סמסטר א\c#\finallproject\finallproject\bin\Debug\finallproject.exe.config
+C:\Users\rotem\Desktop\student\3 Year\סמסטר א\c#\finallproject\finallproject\obj\Debug\finallproject.exe
+C:\Users\rotem\Desktop\student\3 Year\סמסטר א\c#\finallproject\finallproject\obj\Debug\finallproject.pdb
+C:\Users\rotem\Desktop\student\3 Year\סמסטר א\c#\finallproject\finallproject\bin\Debug\finallproject.exe
+C:\Users\rotem\Desktop\student\3 Year\סמסטר א\c#\finallproject\finallproject\bin\Debug\finallproject.pdb
+C:\Users\rotem\Desktop\student\3 Year\סמסטר א\c#\finallproject\finallproject\obj\Debug\FinallProject.csprojResolveAssemblyReference.cache
